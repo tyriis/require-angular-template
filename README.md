@@ -1,4 +1,4 @@
-require.js, angular, bootsrap and jQuery.noConflict(true) base template
+require.js, angular, bootstrap and jQuery.noConflict(true) base template
 -----------------------------------------------------------------------
 
 Features:
